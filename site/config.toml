@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Casper Theme"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "jkarteaga"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -22,9 +22,9 @@ canonifyurls = true
   RSSLink = "http://feeds.feedburner.com/..."
   githubName = "vjeantet"
   twitterName = "vjeantet"
-  # facebookName = ""
-  # linkedinName = ""
+  # facebookName = "jkarteaga"
+  # linkedinName = "jkarteaga"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  hideHUGOSupport = true
   [params.social]
-    twitter = "your_twitter"
+    twitter = "jkarteaga"
